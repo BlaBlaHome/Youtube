@@ -8,7 +8,7 @@ asfjkasnfkasf
 asksfkasfkafaf
 asfaskjflasf
 
-<<<<<<< HEAD
+
 jhfjhasda
 asbdjhsabdkasd
 afkjasjsdhas
@@ -18,10 +18,5 @@ assddlajshddjaskdasld
 
 dfdhbdsjfbskddf
 sdjkfbsdkfsk
-=======
-jkfhksdfksdfsdbjfbsdf
-sfkhsdkfhkskflsd
-fsdfjskdhfkjsdhkfnsdf
-sdfkjhsdkjfhksdf
-sdfjksdfkjsd
->>>>>>> a5e6accab7bc1fae5a35fe7ef558e0d3eea73e78
+
+
