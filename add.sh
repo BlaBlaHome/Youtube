@@ -1,4 +1,4 @@
-a=10
-b=20
-let c=a+b
-echo $c
+number1=10
+number2=20
+let sum=number1+number2
+echo $sum
